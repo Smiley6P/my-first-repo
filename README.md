@@ -7,3 +7,7 @@ Kelas : PBP D
 Hobi : Tidur
 
 Jurusan : Ilmu Sistem Informasi Komputer
+
+
+
+
